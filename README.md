@@ -1,8 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
 <style>
     a {
         margin: 5px;
     }
 </style>
+    </head>
+    <body>
 
 <h1 align="center">Hi, I'm Michał Kamiński</h1>
 <h3 align="center">Brand new in IT Branch.</h3>
@@ -38,3 +43,5 @@
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
     </a>
 </p>
+</body>
+</html>
