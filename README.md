@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Michał Kamiński</h1>
 <h3 align="center">Brand new in IT Branch.</h3>
 
-<h3 align="center" text->Connect with me: HygrekRazuuk@gmail.com</h3>
 <p align="left">
 </p>
 
