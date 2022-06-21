@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-    <head>
-<style>
-    a {
-        margin: 5px;
-    }
-</style>
-    </head>
-    <body>
-
 <h1 align="center">Hi, I'm Michał Kamiński</h1>
 <h3 align="center">Brand new in IT Branch.</h3>
 
@@ -18,7 +7,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+    <a margin="5px" href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -43,5 +32,3 @@
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
     </a>
 </p>
-</body>
-</html>
