@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Michał Kamiński</h1>
+I write beautifully not so beautiful things
 
 
 <p align="left">
