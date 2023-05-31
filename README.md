@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Michał Kamiński</h1>
+<h1 align="center">I'm Michał Kamiński</h1>
 <h2 align="center">I write beautifully not so beautiful things</h2>
+<h4 align="center">Angular and Unity enjoyer</h4>
 
 
 <p align="left">
