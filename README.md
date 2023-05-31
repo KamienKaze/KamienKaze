@@ -1,5 +1,5 @@
 <h1 align="center">I'm Michał Kamiński</h1>
-<h2 align="center">I write beautifully not so beautiful things</h2>Idk im not a designer
+<h2 align="center">I write beautifully not so beautiful things</h2 align="right"><h5>Idk im not a designer</h5>
 <h4 align="center">Angular and Unity enjoyer</h4>
 
 
